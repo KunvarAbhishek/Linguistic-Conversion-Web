@@ -14,7 +14,7 @@ This venture constitutes a rudimentary, web-centric tool for linguistic transfer
 
 ## Demonstration
 
-For an expository live demonstration of the linguistic conversion apparatus, please visit the following hyperlink: [Demonstration](https://abhishek-gupta-translator.netlify.app/)
+For an expository live demonstration of the linguistic conversion apparatus, please visit the following hyperlink: [Live Demo](https://abhishek-gupta-translator.netlify.app/)
 
 ## About the Developer
 
